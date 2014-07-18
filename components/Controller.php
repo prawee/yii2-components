@@ -3,7 +3,7 @@
  * 2014-07-18
  * konkeanweb@gmail.com
  */
-namespace prawee\component;
+namespace prawee\components;
 
 class Controller extends \yii\base\Controller{
     /*
