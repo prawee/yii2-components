@@ -1,7 +1,7 @@
 <?php
 /*
  * 2014-07-18
- * konkeanweb@gmail.com
+ * @auth Prawee Wongsa <konkeanweb@gmail.com>
  */
 namespace prawee\components;
 
